@@ -1,1 +1,2 @@
-# Taking-Notes
+# Note Taker Starter Code
+    I started created the starter code listed in the instructions and edited both html files regarding the links provided in the files. I also editted the css so that the save image would display. 
